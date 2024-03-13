@@ -4,8 +4,8 @@
 ║ Student in Hyderabad,Telangana.                            ║ ┣━━ 🤖 ML Engineer
 ║ My areas of interest are AI/ML, NLP, Data Science,         ║ ┣━━ 👨🏻‍💻 Data Science
 ║ Web Development, Cloud, Cyber Security and basically       ║ ┣━━ 🤖 AI Engineer
-║ every other thing out there. I love working with various   ║ 
-║ tools and learning new things.                             ║ 
-╚════════════════════════════════════════════════════════════╝ 
+║ every other thing out there. I love working with various   ║ ┣━━ 👨🏻‍💻 C,C++,Node.js
+║ tools and learning new things.                             ║ ┣━━ 👨🏻‍💻 Python developer
+╚════════════════════════════════════════════════════════════╝ ┣━━ 🚀 HTML/CSS
 ```
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
